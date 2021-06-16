@@ -1,2 +1,2 @@
-# tatelier-musical-score-osu
+# musical-score-osu
 
